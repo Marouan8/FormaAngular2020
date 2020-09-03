@@ -1,0 +1,10 @@
+<app-fils (send)="get($event)" [filsProperty]="color"></app-fils>
+<div [style.backgroundColor]="color">
+    Color
+</div>
+
+<input [(ngModel)]="color" type="text" class="form-control">
+
+le contenu est : {{color}}
+
+<a (click)="goToCv()" >go to CV</a>

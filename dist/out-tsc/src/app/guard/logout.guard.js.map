@@ -1,0 +1,1 @@
+{"version":3,"file":"logout.guard.js","sourceRoot":"","sources":["../../../../../src/app/guard/logout.guard.ts"],"names":[],"mappings":"AAGA,MAAM,OAAO,WAAW;IACpB,WAAW,CAAC,KAA6B,EACrC,KAA0B;QAC7B,MAAM,KAAK,GAAG,YAAY,CAAC,OAAO,CAAC,OAAO,CAAC,CAAC;QAC5C,IAAI,KAAK,EAAE;YACP,OAAO,KAAK,CAAC;SAChB;aAAM;YACH,OAAO,IAAI,CAAC;SACf;IACF,CAAC;CAEJ"}

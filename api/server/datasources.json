@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MarouaneDb": {
+    "port": 3306,
+    "url": "",
+    "database": "anguforma",
+    "password": "",
+    "name": "MarouaneDb",
+    "localhost": "localhost",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

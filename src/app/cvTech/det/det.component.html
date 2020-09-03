@@ -1,0 +1,11 @@
+<p>det works!</p>
+
+<p>Nom: {{personne.name}}</p>
+<p>prénom :{{personne.firstname}}</p>
+<p>Job :{{personne.job}}</p>
+<p>path :{{personne.path}}</p>
+<p>age : {{personne.age}}</p>
+<p>cin : {{personne.cin}}</p>
+
+<button class="btn btn-danger" (click)="deletePersonne()">Delete</button>
+<button class="btn btn-primary" (click)="updatePersonne(personne.id)">Update</button>
